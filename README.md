@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ambika Akkalkot 👋
 
-<!--
-**Ambika-Akkalkot/Ambika-Akkalkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Artificial Intelligence and Machine Learning student
 
-Here are some ideas to get you started:
+💻 Learning to build practical solutions using Python, data structures, and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python and Data Structures & Algorithms
+- Git and GitHub
+- SQL and data analysis
+- Machine Learning and AI engineering
+
+### 🚀 Projects
+- **VoltIQ AI** — EV charging station network optimization dashboard
+- **Adaptive Learning Gap Analysis and Personalized Career Learning Roadmap** — a project exploring skill-gap analysis and personalized learning paths
+
+### 🎯 My Goals
+- Build meaningful AI/ML projects
+- Strengthen problem-solving and coding skills
+- Contribute to collaborative projects
+- Prepare for internships and hackathons
+
+### 🛠️ Technologies
+Python · C · Flask · HTML · CSS · JavaScript · Git · GitHub
+
+---
+
+*Learning step by step, building consistently, and turning ideas into working projects.
+
