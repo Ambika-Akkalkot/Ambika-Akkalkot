@@ -12,7 +12,6 @@
 
 ### 🚀 Projects
 - **VoltIQ AI** — EV charging station network optimization dashboard
-- **Adaptive Learning Gap Analysis and Personalized Career Learning Roadmap** — a project exploring skill-gap analysis and personalized learning paths
 
 ### 🎯 My Goals
 - Build meaningful AI/ML projects
